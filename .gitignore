@@ -1,3 +1,2 @@
-.env*
 # The data directory stores the data settings and data. 
 data/
