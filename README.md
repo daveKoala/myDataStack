@@ -47,6 +47,9 @@ Port Forwarding (connecting from within the [Docker] container)
 mysql://local:local_password@localhost:3306{db_name_here}
 ```
 
+## Elasticsearch
+The node elasticsearch listens on localhost:9200 while elasticsearch2 talks to elasticsearch over a Docker network.
+
 [Robo 3T]: https://robomongo.org
 [MySQL]: https://www.mysql.com/
 [Node.js]: https://nodejs.org
